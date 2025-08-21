@@ -9,3 +9,5 @@ No
 Repositório
 
 Remoto
+
+Alteração feita no repositório local.
